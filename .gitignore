@@ -1,0 +1,14 @@
+# Vivado build and temporary files
+*.log
+*.jou
+*.pb
+*.str
+*.dir
+*.os
+*.cache/
+*.hw/
+*.ip_user_files/
+*.runs/
+*.sim/
+hd_visual/
+dfx_runtime.txt
